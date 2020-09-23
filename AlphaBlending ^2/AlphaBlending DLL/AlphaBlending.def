@@ -1,0 +1,6 @@
+LIBRARY AlphaBlending
+DESCRIPTION DLL FOR AlphaBlending CARD
+
+EXPORTS
+	getAlphaValue	@1
+	alphaBlend	@2
